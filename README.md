@@ -8,7 +8,7 @@
 
 ## Demo
 	
-*Friend Finder* is deployed to Heroku. Check it out [here](https://thawing-journey-75601.herokuapp.com/).
+*Friend Finder* is deployed to Heroku. Check it out [here](https://limitless-shelf-94383.herokuapp.com/).
 
 ## Installation
 
